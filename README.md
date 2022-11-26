@@ -1,8 +1,8 @@
 Hi there :wave:
 
-- My name is Joy Naitore.
+- My name is Joy.
 
-- Check my [website](http://mobterest.com/) and get a chance to know me better.
+- Check my [Youtube channel](https://www.youtube.com/channel/UCudr7Xlxfybfzbhm37mFBog) and get a chance to know me better.
 
 - Drop by and say [hello](https://www.instagram.com/mobterest/)
 
