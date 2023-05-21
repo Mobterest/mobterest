@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobterest" alt="mobterest" /></a> </p>
 
-![stack stats](https://stack-stats.herokuapp.com/stats?id=<14239957>)
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14239957)](https://github.com/kurt-liao/so-stats)
 
 - 🔭 I’m currently working on an NFT Marketplace Dapp [NFT Marketplace](https://www.youtube.com/watch?v=Sb7_SdzA5oM&list=PLKKf8l1ne4_gmsSEzHuoJo_JjUBgcwjZi)
 
