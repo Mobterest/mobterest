@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobterest" alt="mobterest" /></a> </p>
 
-<a href="https://stack-stats.herokuapp.com/stats?id=14239957" target="_blank" rel="noopener noreferrer">
-    <img src="https://stack-stats.herokuapp.com/stats?id=14239957" alt="stack stats" />&nbsp;
-</a>
+![stack stats](https://stack-stats.herokuapp.com/stats?id=<14239957>)
 
 - 🔭 I’m currently working on an NFT Marketplace Dapp [NFT Marketplace](https://www.youtube.com/watch?v=Sb7_SdzA5oM&list=PLKKf8l1ne4_gmsSEzHuoJo_JjUBgcwjZi)
 
