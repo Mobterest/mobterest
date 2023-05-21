@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobterest" alt="mobterest" /></a> </p>
 
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14239957)](https://github.com/kurt-liao/so-stats)
-
 - 🔭 I’m currently working on an NFT Marketplace Dapp [NFT Marketplace](https://www.youtube.com/watch?v=Sb7_SdzA5oM&list=PLKKf8l1ne4_gmsSEzHuoJo_JjUBgcwjZi)
 
 - 🌱 I’m currently learning **Supabase: The Open Source Firebase Alternative**
@@ -33,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobterest&show_icons=true&locale=en" alt="mobterest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobterest&" alt="mobterest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobterest&theme=dark" alt="mobterest" /></p>
+
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14239957)](https://github.com/kurt-liao/so-stats)
