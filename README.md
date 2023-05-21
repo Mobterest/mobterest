@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobterest&theme=dark" alt="mobterest" /></p>
 
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14239957)](https://github.com/kurt-liao/so-stats)
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14239957&theme=dark)](https://github.com/kurt-liao/so-stats)
