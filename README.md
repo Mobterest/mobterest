@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Joy, a mobile app architect. and creator of Mobterest Studio.😊</h2>
+<h1 align="left">Hi 👋! My name is Joy, a mobile app architect. and creator of Mobterest Studio.😊</h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Languages/Frameworks</h4>
+<h3 align="left">Languages/Frameworks</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">Join the community!</h3>
+<h3 align="left">Join the community!</h3>
 
 ###
 
