@@ -1,19 +1,15 @@
-<h1 align="left">Hi 👋! My name is Joy, a mobile app architect. and creator of Mobterest Studio.😊</h1>
+<h1 align="left">Hi 👋! Welcome to Mobterest Studio.😊</h1>
 
 ###
 
-<h3 align="left">Languages/Frameworks</h3>
+<h3 align="left">Services</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <p>Mobile App Development</p>
+  <p>Web Development</p>
+  <p>Both Mobile and Web Development</p>
 </div>
 
 ###
