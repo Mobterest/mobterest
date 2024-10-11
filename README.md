@@ -7,9 +7,9 @@
 ###
 
 <div align="left">
-  <p>Mobile App Development</p>
-  <p>Web Development</p>
-  <p>Both Mobile and Web Development</p>
+  <p>> Mobile App Development</p>
+  <p>> Web Development</p>
+  <p>> Both Mobile and Web Development</p>
 </div>
 
 ###
